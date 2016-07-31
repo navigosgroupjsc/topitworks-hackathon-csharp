@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\topitworks-hackathon-csharp\bin\Debug\topitworks-hackathon-csharp.exe.config
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\topitworks-hackathon-csharp\bin\Debug\topitworks-hackathon-csharp.exe
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\topitworks-hackathon-csharp\bin\Debug\topitworks-hackathon-csharp.pdb
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\topitworks-hackathon-csharp\obj\Debug\topitworks-hackathon-csharp.exe
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\topitworks-hackathon-csharp\obj\Debug\topitworks-hackathon-csharp.pdb

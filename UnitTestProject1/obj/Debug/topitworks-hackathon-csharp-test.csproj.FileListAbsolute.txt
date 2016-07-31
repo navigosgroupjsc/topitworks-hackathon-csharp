@@ -1,0 +1,7 @@
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\UnitTestProject1\obj\Debug\topitworks-hackathon-csharp-test.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\UnitTestProject1\bin\Debug\topitworks-hackathon-csharp.exe
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\UnitTestProject1\bin\Debug\topitworks-hackathon-csharp.pdb
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+\\mac\home\documents\visual studio 2013\Projects\topitworks-hackathon-csharp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
